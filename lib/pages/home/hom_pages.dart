@@ -4,7 +4,6 @@ import 'package:alboom/pages/music_stars/cent/cent.dart';
 import 'package:alboom/pages/music_stars/miyagy/miyagi.dart';
 import 'package:alboom/pages/music_stars/shaggy/shaggy.dart';
 import 'package:flutter/material.dart';
-
 import '../music_stars/albom_stayle.dart';
 
 class HomPages extends StatefulWidget {
